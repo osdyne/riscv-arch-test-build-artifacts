@@ -1,0 +1,4 @@
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  could not open my.elf; searched paths:
+	. (current directory)
+	/home/daniel/riscv-arch-test/env/riscv-isa-sim/build/../../spike/riscv64-unknown-elf/bin/ (based on configured --prefix and --with-target)
