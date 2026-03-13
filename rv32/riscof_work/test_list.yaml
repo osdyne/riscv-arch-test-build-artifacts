@@ -1,0 +1,5153 @@
+# testlist generated on 2026-03-13 01:57 GMT
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoadd.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amoadd.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amoadd.w
+  - amoadd.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoadd.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoand.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amoand.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amoand.w
+  - amoand.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoand.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomax.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amomax.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amomax.w
+  - amomax.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomax.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomaxu.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amomaxu.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amomaxu.w
+  - amomaxu.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomaxu.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomin.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amomin.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amomin.w
+  - amomin.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amomin.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amominu.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amominu.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amominu.w
+  - amominu.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amominu.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoor.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amoor.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amoor.w
+  - amoor.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoor.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoswap.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amoswap.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amoswap.w
+  - amoswap.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoswap.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoxor.w-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/A/src/amoxor.w-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA
+  mac: []
+  coverage_labels:
+  - amoxor.w
+  - amoxor.w
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/A/src/amoxor.w-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/andn-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/andn-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - andn
+  - andn
+  - andn
+  - andn
+  - andn
+  - andn
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/andn-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bclr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bclr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bclr
+  - bclr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bclr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bclri-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bclri-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bclri
+  - bclri
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bclri-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bext-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bext-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bext
+  - bext
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bext-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bexti-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bexti-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bexti
+  - bexti
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bexti-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/binv-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/binv-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - binv
+  - binv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/binv-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/binvi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/binvi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - binvi
+  - binvi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/binvi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bset-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bset-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bset
+  - bset
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bset-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bseti-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/bseti-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbs
+  mac: []
+  coverage_labels:
+  - bseti
+  - bseti
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/bseti-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmul-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/clmul-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbc
+  mac: []
+  coverage_labels:
+  - clmul
+  - clmul
+  - clmul
+  - clmul
+  - clmul
+  - clmul
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmul-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmulh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/clmulh-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbc
+  mac: []
+  coverage_labels:
+  - clmulh
+  - clmulh
+  - clmulh
+  - clmulh
+  - clmulh
+  - clmulh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmulh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmulr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/clmulr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbc
+  mac: []
+  coverage_labels:
+  - clmulr
+  - clmulr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clmulr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clz-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/clz-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - clz
+  - clz
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/clz-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/cpop-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/cpop-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - cpop
+  - cpop
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/cpop-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/ctz-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/ctz-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - ctz
+  - ctz
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/ctz-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/max-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/max-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - max
+  - max
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/max-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/maxu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/maxu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - maxu
+  - maxu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/maxu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/min-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/min-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - min
+  - min
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/min-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/minu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/minu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - minu
+  - minu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/minu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/orcb_32-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/orcb_32-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - orcb_32
+  - orcb_32
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/orcb_32-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/orn-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/orn-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - orn
+  - orn
+  - orn
+  - orn
+  - orn
+  - orn
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/orn-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rev8_32-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/rev8_32-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - rev8_32
+  - rev8_32
+  - rev8_32
+  - rev8_32
+  - rev8_32
+  - rev8_32
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rev8_32-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rol-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/rol-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - rol
+  - rol
+  - rol
+  - rol
+  - rol
+  - rol
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rol-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/ror-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/ror-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - ror
+  - ror
+  - ror
+  - ror
+  - ror
+  - ror
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/ror-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rori-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/rori-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - rori
+  - rori
+  - rori
+  - rori
+  - rori
+  - rori
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/rori-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sext.b-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/sext.b-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - sext.b
+  - sext.b
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sext.b-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sext.h-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/sext.h-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - sext.h
+  - sext.h
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sext.h-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh1add-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/sh1add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZba
+  mac: []
+  coverage_labels:
+  - sh1add
+  - sh1add
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh1add-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh2add-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/sh2add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZba
+  mac: []
+  coverage_labels:
+  - sh2add
+  - sh2add
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh2add-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh3add-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/sh3add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZba
+  mac: []
+  coverage_labels:
+  - sh3add
+  - sh3add
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/sh3add-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/xnor-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/xnor-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - xnor
+  - xnor
+  - xnor
+  - xnor
+  - xnor
+  - xnor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/xnor-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/zext.h_32-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/B/src/zext.h_32-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbb
+  mac: []
+  coverage_labels:
+  - zext.h_32
+  - zext.h_32
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/B/src/zext.h_32-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cadd-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cadd-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cadd
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cadd-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/caddi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - caddi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi16sp-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/caddi16sp-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - caddi16sp
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi16sp-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi4spn-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/caddi4spn-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - caddi4spn
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/caddi4spn-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cand-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cand-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cand
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cand-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/candi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/candi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - candi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/candi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cbeqz-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cbeqz-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cbeqz
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cbeqz-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cbnez-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cbnez-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cbnez
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cbnez-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cebreak-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cebreak-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac: []
+  coverage_labels:
+  - cebreak
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cebreak-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cj-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cj-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cj
+  test_path: /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cj-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjal-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cjal-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cjal
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjal-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjalr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cjalr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cjalr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjalr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cjr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cjr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cjr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clbu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clbu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - clbu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clbu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clh-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - clh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clhu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clhu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - clhu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clhu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clui-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clui-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - clui
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clui-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clw-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clw-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - clw
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clw-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clwsp-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/clwsp-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - clwsp
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/clwsp-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cmul-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cmul-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - cmul
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cmul-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cmv-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cmv-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cmv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cmv-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cnop-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cnop-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cnop
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cnop-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cnot-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cnot-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - cnot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cnot-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cor-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cor-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cor-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csb-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csb-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - csb
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csb-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csext.b-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csext.b-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb_Zbb
+  mac: []
+  coverage_labels:
+  - csext.b
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csext.b-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csext.h-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csext.h-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb_Zbb
+  mac: []
+  coverage_labels:
+  - csext.h
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csext.h-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csh-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - csh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cslli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cslli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cslli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cslli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csrai-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csrai-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - csrai
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csrai-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csrli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csrli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - csrli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csrli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csub-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csub-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - csub
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csub-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csw-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/csw-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - csw
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/csw-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cswsp-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cswsp-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cswsp
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cswsp-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cxor-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/cxor-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - cxor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/cxor-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/czext.b-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/czext.b-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb
+  mac: []
+  coverage_labels:
+  - czext.b
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/czext.b-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/czext.h-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/C/src/czext.h-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zca_Zcb_Zbb
+  mac: []
+  coverage_labels:
+  - czext.h
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/C/src/czext.h-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/CMO/src/cbo.zero-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/CMO/src/cbo.zero-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZicboz_Zicsr
+  mac: []
+  coverage_labels:
+  - cbozero
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/CMO/src/cbo.zero-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/add-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - add
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/add-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/addi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/addi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - addi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/addi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/and-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/and-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - and
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/and-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/andi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/andi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - andi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/andi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/auipc-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/auipc-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - auipc
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/auipc-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/beq-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/beq-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - beq
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/beq-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bge-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/bge-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - bge
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bge-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bgeu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/bgeu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - bgeu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bgeu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/blt-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/blt-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - blt
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/blt-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bltu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/bltu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - bltu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bltu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bne-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/bne-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - bne
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/bne-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/fence-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/fence-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - fence
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/fence-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/jal-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/jal-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - jal
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/jal-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/jalr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/jalr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - jalr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/jalr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lb-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lb-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lb-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lb-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lbu-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lbu-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lbu-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lbu-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lh-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lh-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lh-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lh-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lhu-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lhu-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lhu-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lhu-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lui-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lui-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lui
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lui-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lw-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/lw-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - lw-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/lw-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/or-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/or-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - or
+  test_path: /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/or-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/ori-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/ori-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - ori
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/ori-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sb-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sb-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sb-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sb-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sh-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sh-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sh-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sh-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sll-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sll-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sll
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sll-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/slli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - slli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slt-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/slt-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - slt
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slt-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slti-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/slti-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - slti
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/slti-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sltiu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sltiu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sltiu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sltiu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sltu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sltu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sltu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sltu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sra-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sra-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sra
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sra-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srai-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/srai-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - srai
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srai-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srl-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/srl-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - srl
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srl-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/srli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - srli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/srli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sub-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sub-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sub
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sub-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sw-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/sw-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - sw-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/sw-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/xor-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/xor-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - xor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/xor-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/xori-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/I/src/xori-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - xori
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/I/src/xori-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32dsi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/aes32dsi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknd
+  mac: []
+  coverage_labels:
+  - aes32dsi
+  - aes32dsi
+  - aes32dsi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32dsi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32dsmi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/aes32dsmi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknd
+  mac: []
+  coverage_labels:
+  - aes32dsmi
+  - aes32dsmi
+  - aes32dsmi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32dsmi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32esi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/aes32esi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZkne
+  mac: []
+  coverage_labels:
+  - aes32esi
+  - aes32esi
+  - aes32esi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32esi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32esmi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/aes32esmi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZkne
+  mac: []
+  coverage_labels:
+  - aes32esmi
+  - aes32esmi
+  - aes32esmi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/aes32esmi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/brev8_32-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/brev8_32-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkb
+  mac: []
+  coverage_labels:
+  - brev8_32
+  - brev8_32
+  - brev8_32
+  - brev8_32
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/brev8_32-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/pack-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/pack-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkb
+  mac: []
+  coverage_labels:
+  - pack
+  - pack
+  - pack
+  - pack
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/pack-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/packh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/packh-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkb
+  mac: []
+  coverage_labels:
+  - packh
+  - packh
+  - packh
+  - packh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/packh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sig0-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha256sig0-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha256sig0
+  - sha256sig0
+  - sha256sig0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sig0-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sig1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha256sig1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha256sig1
+  - sha256sig1
+  - sha256sig1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sig1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sum0-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha256sum0-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha256sum0
+  - sha256sum0
+  - sha256sum0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sum0-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sum1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha256sum1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha256sum1
+  - sha256sum1
+  - sha256sum1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha256sum1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig0h-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sig0h-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sig0h
+  - sha512sig0h
+  - sha512sig0h
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig0h-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig0l-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sig0l-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sig0l
+  - sha512sig0l
+  - sha512sig0l
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig0l-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig1h-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sig1h-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sig1h
+  - sha512sig1h
+  - sha512sig1h
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig1h-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig1l-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sig1l-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sig1l
+  - sha512sig1l
+  - sha512sig1l
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sig1l-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sum0r-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sum0r-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sum0r
+  - sha512sum0r
+  - sha512sum0r
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sum0r-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sum1r-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sha512sum1r-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZknh
+  mac: []
+  coverage_labels:
+  - sha512sum1r
+  - sha512sum1r
+  - sha512sum1r
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sha512sum1r-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm3p0-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sm3p0-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZksh
+  mac: []
+  coverage_labels:
+  - sm3p0
+  - sm3p0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm3p0-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm3p1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sm3p1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZksh
+  mac: []
+  coverage_labels:
+  - sm3p1
+  - sm3p1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm3p1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm4ed-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sm4ed-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZksed
+  mac: []
+  coverage_labels:
+  - sm4ed
+  - sm4ed
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm4ed-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm4ks-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/sm4ks-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZksed
+  mac: []
+  coverage_labels:
+  - sm4ks
+  - sm4ks
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/sm4ks-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/unzip-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/unzip-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkb
+  mac: []
+  coverage_labels:
+  - unzip
+  - unzip
+  - unzip
+  - unzip
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/unzip-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/xperm4-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/xperm4-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkx
+  mac: []
+  coverage_labels:
+  - xperm4
+  - xperm4
+  - xperm4
+  - xperm4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/xperm4-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/xperm8-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/xperm8-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkx
+  mac: []
+  coverage_labels:
+  - xperm8
+  - xperm8
+  - xperm8
+  - xperm8
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/xperm8-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/zip-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/K/src/zip-01.S
+  macros:
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZbkb
+  mac: []
+  coverage_labels:
+  - zip
+  - zip
+  - zip
+  - zip
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/K/src/zip-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/div-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/div-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - div
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/div-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/divu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/divu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - divu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/divu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mul-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/mul-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - mul
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mul-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/mulh-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - mulh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulhsu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/mulhsu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - mulhsu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulhsu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulhu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/mulhu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - mulhu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/mulhu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/rem-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/rem-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - rem
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/rem-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/remu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/M/src/remu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IM
+  mac: []
+  coverage_labels:
+  - remu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/M/src/remu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.11-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.11-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.11
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.11-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.13-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.13-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.13
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.13-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.15-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.15-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.15
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.15-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.3-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.3-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.3
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.3-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.5-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.5-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.5
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.5-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.7-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.7-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.7
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.7-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.9-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zcmop/src/c.mop.9-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32ICZcmop
+  mac: []
+  coverage_labels:
+  - c.mop.9
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zcmop/src/c.mop.9-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zfh/src/fsh-align-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zfh/src/fsh-align-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  - FLEN=32
+  isa: RV32IF_Zicsr_Zfh
+  mac: []
+  coverage_labels:
+  - fsh-align
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zfh/src/fsh-align-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zicond/src/czero.eqz-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zicond/src/czero.eqz-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZicond
+  mac: []
+  coverage_labels:
+  - czero.eqz
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zicond/src/czero.eqz-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zicond/src/czero.nez-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zicond/src/czero.nez-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZicond
+  mac: []
+  coverage_labels:
+  - czero.nez
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zicond/src/czero.nez-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zifencei/src/Fencei.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zifencei/src/Fencei.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zifencei
+  mac: []
+  coverage_labels:
+  - fencei
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zifencei/src/Fencei.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.0-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.0-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.0-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.10-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.10-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.10
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.10-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.11-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.11-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.11
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.11-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.12-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.12-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.12
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.12-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.13-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.13-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.13
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.13-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.14-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.14-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.14
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.14-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.15-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.15-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.15
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.15-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.16-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.16-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.16
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.16-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.17-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.17-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.17
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.17-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.18-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.18-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.18
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.18-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.19-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.19-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.19
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.19-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.2-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.2-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.2
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.2-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.20-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.20-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.20
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.20-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.21-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.21-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.21
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.21-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.22-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.22-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.22
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.22-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.23-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.23-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.23
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.23-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.24-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.24-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.24
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.24-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.25-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.25-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.25
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.25-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.26-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.26-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.26
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.26-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.27-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.27-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.27
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.27-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.28-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.28-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.28
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.28-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.29-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.29-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.29
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.29-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.3-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.3-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.3
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.3-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.30-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.30-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.30
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.30-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.31-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.31-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.31
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.31-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.4-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.4-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.4-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.5-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.5-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.5
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.5-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.6-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.6-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.6
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.6-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.7-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.7-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.7
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.7-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.8-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.8-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.8
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.8-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.9-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.r.9-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.r.9
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.r.9-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.0-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.0-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.0-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.1-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.1-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.1
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.1-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.2-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.2-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.2
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.2-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.3-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.3-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.3
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.3-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.4-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.4-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.4-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.5-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.5-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.5
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.5-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.6-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.6-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.6
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.6-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.7-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/Zimop/src/mop.rr.7-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IZimop
+  mac: []
+  coverage_labels:
+  - mop.rr.7
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/Zimop/src/mop.rr.7-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/add-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - add
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/add-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/addi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/addi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - addi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/addi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/and-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/and-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - and
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/and-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/andi-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/andi-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - andi
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/andi-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/auipc-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/auipc-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - auipc
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/auipc-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/fence-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/fence-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - fence
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/fence-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/lui-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/lui-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - lui
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/lui-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/or-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/or-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - or
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/or-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/ori-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/ori-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - ori
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/ori-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sll-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/sll-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sll
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sll-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/slli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - slli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slt-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/slt-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - slt
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slt-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slti-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/slti-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - slti
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/slti-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sltiu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/sltiu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sltiu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sltiu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sltu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/sltu-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sltu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sltu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sra-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/sra-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sra
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sra-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srai-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/srai-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - srai
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srai-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srl-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/srl-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - srl
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srl-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srli-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/srli-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - srli
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/srli-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sub-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/sub-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sub
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/sub-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/xor-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/xor-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - xor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/xor-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/xori-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/hints/src/xori-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - xori
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/hints/src/xori-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_A_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_all
+  - cp_cfg_A_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_off_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_A_off_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_off_all
+  - cp_cfg_A_off_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_off_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_tor_bot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_A_tor_bot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor_bot
+  - cp_cfg_A_tor_bot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_tor_bot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_tor_zero.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_A_tor_zero.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor0
+  - cp_cfg_A_tor0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_A_tor_zero.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_access_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_L_access_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_L_access_all
+  - cp_none
+  - cp_cfg_L_access_all
+  - cp_none
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_access_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_napot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_L_modify_napot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_L_modify
+  - cp_cfg_L_modify
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_napot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_L_modify_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_L_modify
+  - cp_cfg_L_modify
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_tor.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_L_modify_tor.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_L_modify
+  - cp_cfg_L_modify
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_L_modify_tor.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_XWR_all-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-02.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_XWR_all-02.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-02.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-03.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_XWR_all-03.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-03.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-04.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_XWR_all-04.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  - cp_cfg_X0_all
+  - cp_cfg_X1_all
+  - cp_cfg_RW00_all
+  - cp_cfg_RW10_all
+  - cp_cfg_RW11_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_XWR_all-04.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_na4_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_na4_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_na4_all
+  - cp_cfg_A_na4_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_na4_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_napot_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_napot_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_napot_all
+  - cp_cfg_A_napot_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_napot_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_all.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_tor_all.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor_all
+  - cp_cfg_A_tor_all
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_all.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_tor_check-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor_nonoverlap
+  - cp_cfg_A_tor_nonoverlap
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-02.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_tor_check-02.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor_nonoverlap
+  - cp_cfg_A_tor_nonoverlap
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-02.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-03.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_cfg_tor_check-03.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor_nonoverlap
+  - cp_cfg_A_tor_nonoverlap
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_cfg_tor_check-03.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_csr_walk.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_csr_walk.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_pmpaddr_walk
+  - cp_pmpcfg_walk
+  - cp_pmpaddr_walk
+  - cp_pmpcfg_walk
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_csr_walk.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_grain.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_grain.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_grain
+  - cp_grain
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_grain.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_grain_check.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_grain_check.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_grain_check
+  - cp_grain_check
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_grain_check.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_na4.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_misaligned_na4.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_na4
+  - cp_misaligned_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_na4.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_napot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_misaligned_napot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_napot
+  - cp_misaligned_napot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_napot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_misaligned_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_off
+  - cp_misaligned_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_tor.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_misaligned_tor.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_tor
+  - cp_misaligned_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_misaligned_tor.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_na4_legal_lwxr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_na4_legal_lwxr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_na4
+  - cp_cfg_A_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_na4_legal_lwxr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_napot_legal_lwxr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_napot_legal_lwxr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_napot
+  - cp_cfg_X
+  - cp_cfg_RW
+  - cp_cfg_A_napot
+  - cp_cfg_X
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_napot_legal_lwxr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_priority.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_priority.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_priority
+  - cp_priority
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_priority.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_priority_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_priority_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_priority_off
+  - cp_priority_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_priority_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_tor_legal_lwxr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpm_tor_legal_lwxr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor
+  - cp_cfg_A_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpm_tor_legal_lwxr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_cfg_A_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_cfg_A_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_cfg_A_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_cfg_XWR.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_cfg_XWR.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_cfg_XWR.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_csr_access.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_csr_access.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_pmpcfg_access_s
+  - cp_pmpcfg_access_s
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_csr_access.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_mprv_check-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_mprv_check-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_mprv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_mprv_check-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_mprv_check-02.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_mprv_check-02.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_mprv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_mprv_check-02.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_na4_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_na4_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_na4_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_napot_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_napot_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_napot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_napot_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_none.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_none.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_none
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_none.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_tor_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmps_tor_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmps_tor_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_cfg_A_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_cfg_A_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_off
+  - cp_cfg_A_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_cfg_A_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_cfg_XWR.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_cfg_XWR.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_X
+  - cp_cfg_RW
+  - cp_cfg_X
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_cfg_XWR.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_csr_access.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_csr_access.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_pmpaddr_access_u
+  - cp_pmpcfg_access_u
+  - cp_pmpaddr_access_u
+  - cp_pmpcfg_access_u
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_csr_access.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_mprv_check-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_mprv_check-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_mprv
+  - cp_mprv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_mprv_check-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_mprv_check-02.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_mprv_check-02.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_mprv
+  - cp_mprv
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_mprv_check-02.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_na4_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_na4_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_na4
+  - cp_cfg_A_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_na4_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_napot_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_napot_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_napot
+  - cp_cfg_X
+  - cp_cfg_RW
+  - cp_cfg_A_napot
+  - cp_cfg_X
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_napot_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_none.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_none.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_none
+  - cp_none
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_none.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_tor_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpu_tor_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_A_tor
+  - cp_cfg_A_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpu_tor_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzaamo_cfg_wr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzaamo_cfg_wr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IA_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_RW
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzaamo_cfg_wr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_na4.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_aligned_na4.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_na4
+  - cp_misaligned_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_na4.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_napot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_aligned_napot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_napot
+  - cp_misaligned_napot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_napot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_aligned_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_off
+  - cp_misaligned_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_tor.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_aligned_tor.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_tor
+  - cp_misaligned_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_aligned_tor.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_na4.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_cret_na4.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cret_na4
+  - cp_cret_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_na4.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_napot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_cret_napot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cret_napot
+  - cp_cret_napot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_napot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_tor.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_cret_tor.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cret_tor
+  - cp_cret_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_cret_tor.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr_Zca
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_RW
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_na4.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_misaligned_na4.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_na4
+  - cp_misaligned_na4
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_na4.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_napot.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_misaligned_napot.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_napot
+  - cp_misaligned_napot
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_napot.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_off.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_misaligned_off.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_off
+  - cp_misaligned_off
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_off.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_tor.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzca_misaligned_tor.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_misaligned_tor
+  - cp_misaligned_tor
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzca_misaligned_tor.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzcb_legal_lxwr.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/pmp/src/pmpzcb_legal_lxwr.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC_Zicsr_Zcb
+  mac:
+  - PMP_MACROS
+  - PMP_helper_Coverpoints
+  coverage_labels:
+  - cp_cfg_RW
+  - cp_cfg_RW
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/pmp/src/pmpzcb_legal_lxwr.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/ebreak.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/ebreak.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - ebreak
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/ebreak.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/ecall.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/ecall.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - ecall
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/ecall.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-beq-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-beq-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-beq
+  - misalign-beq
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-beq-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bge-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-bge-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-bge
+  - misalign-bge
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bge-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bgeu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-bgeu-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-bgeu
+  - misalign-bgeu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bgeu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-blt-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-blt-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-blt
+  - misalign-blt
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-blt-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bltu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-bltu-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-bltu
+  - misalign-bltu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bltu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bne-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-bne-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-bne
+  - misalign-bne
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-bne-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-jal-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-jal-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-jal
+  - misalign-jal
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-jal-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-lh-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-lh
+  - misalign-lh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lhu-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-lhu-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-lhu
+  - misalign-lhu
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lhu-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lw-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-lw-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-lw
+  - misalign-lw
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-lw-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-sh-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-sh-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-sh
+  - misalign-sh
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-sh-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-sw-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign-sw-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign-sw
+  - misalign-sw
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign-sw-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-cjalr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign1-cjalr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - misalign1-cjalr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-cjalr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-cjr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign1-cjr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32IC
+  mac: []
+  coverage_labels:
+  - misalign1-cjr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-cjr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-jalr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign1-jalr-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - misalign1-jalr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign1-jalr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign2-jalr-01.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/privilege/src/misalign2-jalr-01.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - misalign2-jalr
+  - misalign2-jalr
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/privilege/src/misalign2-jalr-01.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sv32_tests
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sv32_tests
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pa_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sv32_tests
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac: []
+  coverage_labels:
+  - sv32_tests
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_pmp/src/sv32_pmp_on_pte_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/mstatus_tvm_test.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/mstatus_tvm_test.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - mstatus_tvm
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/mstatus_tvm_test.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/satp_access_tests.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/satp_access_tests.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - satp_access_all_modes
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/satp_access_tests.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_A_and_D_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_A_and_D_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - SOFTWARE_UPDATE_A_D=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - a_and_d_bit_soft_upd
+  - a_and_d_bit_hart_upd
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_A_and_D_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_A_and_D_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_A_and_D_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - SOFTWARE_UPDATE_A_D=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - a_and_d_bit_soft_upd
+  - a_and_d_bit_hart_upd
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_A_and_D_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_set_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_U_Bit_set_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - U_bit_set_in_UMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_set_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_unset_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_U_Bit_unset_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - U_bit_unset_in_SMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_unset_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_unset_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_U_Bit_unset_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - U_bit_unset_in_UMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_U_Bit_unset_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_VA_all_ones_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_VA_all_ones_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - VA_all_ones
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_VA_all_ones_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_VA_all_zeros_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_VA_all_zeros_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - VA_all_zeros
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_VA_all_zeros_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_global_pte_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_global_pte_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - global_pte
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_global_pte_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_global_pte_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_global_pte_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - global_pte
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_global_pte_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_invalid_pte_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_invalid_pte_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - invalid_pte
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_invalid_pte_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_invalid_pte_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_invalid_pte_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - invalid_pte
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_invalid_pte_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_misaligned_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_misaligned_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - misaligned_superpage
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_misaligned_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_misaligned_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_misaligned_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - misaligned_superpage
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_misaligned_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mprv_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MPRV_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mprv_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MPRV_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_set_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_set_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MPRV_SUM_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_set_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_unset_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_unset_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MPRV_SUM_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_U_set_sum_unset_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_bare_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mprv_bare_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MPRV_set_bare_mode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mprv_bare_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - mstatus_sbe_set
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_sum_set_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_sum_set_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - mstatus_sbe_set
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mstatus_sbe_set_sum_set_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mxr_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mxr_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MXR_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mxr_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mxr_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_mxr_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - MXR_bit
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_mxr_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - nonleaf_pte_level0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - nonleaf_pte_level0
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_nleaf_pte_level0_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - reserved_rsw_pte_perm
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - reserved_rsw_pte_perm
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rsw_pte_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - reserved_rwx_pte_perm
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_U_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_U_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - reserved_rwx_pte_perm
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_reserved_rwx_pte_U_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_set_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_sum_set_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - U_bit_sum_set_in_SMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_set_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_set_U_Bit_unset_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_sum_set_U_Bit_unset_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - sum_set_U_bit_unset_SMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_set_U_Bit_unset_S_mode.S
+/home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_unset_S_mode.S:
+  commit_id: '-'
+  work_dir: 
+    /home/daniel/riscv-arch-test/riscof-plugins/rv32/riscof_work/rv32i_m/vm_sv32/src/vm_sum_unset_S_mode.S
+  macros:
+  - rvtest_mtrap_routine=True
+  - rvtest_strap_routine=True
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I_Zicsr
+  mac:
+  - SV32_MACROS
+  coverage_labels:
+  - U_bit_no_sum_set_in_SMode
+  test_path: 
+    /home/daniel/riscv-arch-test/riscv-test-suite/rv32i_m/vm_sv32/src/vm_sum_unset_S_mode.S
